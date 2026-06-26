@@ -1,5 +1,9 @@
 # Compleasy — Compliance Made Easy
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rizuanulkabir/Digital-Business-Model-Compleasy-/main/compleasy%20logo.png" alt="Compleasy Logo" width="400">
+</p>
+
 Compleasy is an end-to-end, AI-first compliance command center designed specifically for European small and medium-sized enterprises (the "Mittelstand"). The platform bridges the competitive gap between chaotic manual processes (spreadsheets/emails) and cost-prohibitive, oversized enterprise GRC frameworks like SAP GRC or OneTrust. 
 
 Built to handle the strict demands of the **German Supply Chain Due Diligence Act (LkSG)** and the **European Corporate Sustainability Due Diligence Directive (CSDDD)**[cite: 1], Compleasy delivers a unique market positioning: **High AI Sophistication paired with High Legal Traceability**.
